@@ -1,0 +1,16 @@
+include <iostream>
+
+using namespace std;
+
+struct Figur {
+int groesse;
+int staerke;
+int verteidigung;
+int name[10];
+}
+
+int main()
+Figur kaempfer;
+kaempfer.groesse = 10;
+kaempfer staerke = 100;
+kaempfer.verteidigung = 37
